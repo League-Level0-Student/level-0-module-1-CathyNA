@@ -34,7 +34,7 @@ else {
 	
 	}
 String answer3=JOptionPane.showInputDialog("Two children, who were all tangled up in their reckoning of the days of the week, paused to straighten matters out.\nWhen the day after tomorrow is yesterday,\" said Priscilla, \"then 'today' will be as far from Sunday as that day was which was 'today' when the day before yesterday was tomorrow!\"\r\n" + 
-		"On which day of the week did this puzzling prattle occur?")
+		"On which day of the week did this puzzling prattle occur?");
 JOptionPane.showMessageDialog(null, "Your current score is "+score+".");
 }
 }
